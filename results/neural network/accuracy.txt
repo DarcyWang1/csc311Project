@@ -1,0 +1,39 @@
+lr=0.01
+k=10: Max Validation Accuracy: 0.6920688681907987
+k=50: Max Validation Accuracy: 0.6974315551792266
+k=100: Max Validation Accuracy: 0.6879762912785775
+k=200: Max Validation Accuracy: 0.6831780976573525
+k=500: Max Validation Accuracy: 0.6721704769968952
+
+
+lr=0.1
+k=10: Max Validation Accuracy: 0.6865650578605701
+k=50: Max Validation Accuracy: 0.6838837143663562
+k=100: Max Validation Accuracy: 0.683460344340954
+k=200: Max Validation Accuracy: 0.678662150719729
+k=500: Max Validation Accuracy: 0.6731583403895004
+
+
+lr=0.001
+k=10: Max Validation Accuracy: 0.6742873271239063
+k=50: Max Validation Accuracy: 0.6953147050522156
+k=100: Max Validation Accuracy: 0.6836014676827548
+k=200: Max Validation Accuracy: 0.6862828111769687
+k=500: Max Validation Accuracy: 0.678662150719729
+
+lr=0.03
+k=10: Max Validation Accuracy: 0.6909398814563928
+k=50: Max Validation Accuracy: 0.6917866215071973
+k=100: Max Validation Accuracy: 0.6868473045441716
+k=200: Max Validation Accuracy: 0.6812023708721423
+k=500: Max Validation Accuracy: 0.6665255433248659
+
+lr=0.01 k=50
+lamb=0.001: Max Validation Accuracy: 0.6920688681907987
+lamb=0.01: Max Validation Accuracy: 0.6851538244425628
+lamb=0.1: Max Validation Accuracy: 0.6285633643804686
+lamb=1: Max Validation Accuracy: 0.6261642675698561
+
+lamb=0 lr=0.01 k=50
+Test Accuracy: 0.6810612475303415
+
